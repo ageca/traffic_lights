@@ -1,0 +1,5 @@
+/home/edyta/lights_test/build/CMakeFiles/rebuild_cache.dir
+/home/edyta/lights_test/build/CMakeFiles/edit_cache.dir
+/home/edyta/lights_test/build/traffic_lights/CMakeFiles/rebuild_cache.dir
+/home/edyta/lights_test/build/traffic_lights/CMakeFiles/traffic_lights.dir
+/home/edyta/lights_test/build/traffic_lights/CMakeFiles/edit_cache.dir

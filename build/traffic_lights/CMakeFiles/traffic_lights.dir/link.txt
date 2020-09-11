@@ -1,0 +1,1 @@
+/usr/bin/gcc-5 -g  -rdynamic CMakeFiles/traffic_lights.dir/traffic_lights.o CMakeFiles/traffic_lights.dir/lights.o CMakeFiles/traffic_lights.dir/sensor.o CMakeFiles/traffic_lights.dir/periodic.o  -o traffic_lights -lpthread -lrt 

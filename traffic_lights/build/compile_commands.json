@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/edyta/traffic_lights/build/traffic_lights",
+  "command": "/usr/bin/gcc-7   -g   -o CMakeFiles/traffic_lights.dir/traffic_lights.o   -c /home/edyta/traffic_lights/traffic_lights/traffic_lights.c",
+  "file": "/home/edyta/traffic_lights/traffic_lights/traffic_lights.c"
+},
+{
+  "directory": "/home/edyta/traffic_lights/build/traffic_lights",
+  "command": "/usr/bin/gcc-7   -g   -o CMakeFiles/traffic_lights.dir/lights.o   -c /home/edyta/traffic_lights/traffic_lights/lights.c",
+  "file": "/home/edyta/traffic_lights/traffic_lights/lights.c"
+},
+{
+  "directory": "/home/edyta/traffic_lights/build/traffic_lights",
+  "command": "/usr/bin/gcc-7   -g   -o CMakeFiles/traffic_lights.dir/sensor.o   -c /home/edyta/traffic_lights/traffic_lights/sensor.c",
+  "file": "/home/edyta/traffic_lights/traffic_lights/sensor.c"
+},
+{
+  "directory": "/home/edyta/traffic_lights/build/traffic_lights",
+  "command": "/usr/bin/gcc-7   -g   -o CMakeFiles/traffic_lights.dir/periodic.o   -c /home/edyta/traffic_lights/traffic_lights/periodic.c",
+  "file": "/home/edyta/traffic_lights/traffic_lights/periodic.c"
+}
+]
